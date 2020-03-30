@@ -973,10 +973,10 @@ remark-lint-no-heading-like-paragraph@^1.0.3:
     unist-util-generated "^1.1.0"
     unist-util-visit "^1.1.1"
 
-remark-lint-no-heading-punctuation@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-heading-punctuation/-/remark-lint-no-heading-punctuation-1.0.3.tgz#7357b0b6e668bb6b32338fe280cde9fe4388b547"
-  integrity sha512-JQD05RjLS99ePBQ4Bed1uWsQTlIMBTcGgIgF6jFXSCEqhwnrIUDwk6S3MG1RZsKd3TLw2xuT/i+POpfBc2+1kQ==
+remark-lint-no-heading-punctuation@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-heading-punctuation/-/remark-lint-no-heading-punctuation-1.0.4.tgz#f13adfd3a8b87646fb2e337120e22483a2a8b03e"
+  integrity sha512-++/HXg/qtVssJjzq2ZgEreoxaazw9KkYrAbTDImKV7Fypo+7bZFELUvFicq0/i9qwAwt1tvhkKtLYt1W/sr1JQ==
   dependencies:
     mdast-util-to-string "^1.0.2"
     unified-lint-rule "^1.0.0"
