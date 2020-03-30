@@ -70,6 +70,6 @@
     "remark-lint-table-pipe-alignment": "^1.0.3",
     "remark-lint-table-pipes": "^1.0.3",
     "remark-lint-unordered-list-marker-style": "^1.0.3",
-    "remark-yaml-config": "^4.1.0"
+    "remark-yaml-config": "^4.1.1"
   }
 }
