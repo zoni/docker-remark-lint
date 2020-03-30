@@ -768,10 +768,10 @@ remark-lint-list-item-bullet-indent@^1.0.3:
     unist-util-position "^3.0.0"
     unist-util-visit "^1.1.1"
 
-remark-lint-list-item-content-indent@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/remark-lint-list-item-content-indent/-/remark-lint-list-item-content-indent-1.0.3.tgz#e62012ef361fedaca42a764b8389023df4212eca"
-  integrity sha512-ZSIGJG2/6jd1xj/xEoDlkcJBf2Ksw8U6vIGJO0IFIA3BLCbJm2EMWJxto2cfzRvXoACmAaxTJMqW8qatPExa4w==
+remark-lint-list-item-content-indent@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/remark-lint-list-item-content-indent/-/remark-lint-list-item-content-indent-1.0.4.tgz#966640afa93d3e42377851bb47ac4c4d551b83f4"
+  integrity sha512-zfEeAayZjEKkPr07fnhkGLENxOhnm0WZJTj6UBIXhtGu7rX23WNKSZaiou8iUoHxcO6ySCvIUJAEmq/XN1FxkQ==
   dependencies:
     plur "^3.0.0"
     unified-lint-rule "^1.0.0"
