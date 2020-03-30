@@ -1196,10 +1196,10 @@ remark-lint-table-pipe-alignment@^1.0.3:
     unist-util-position "^3.0.0"
     unist-util-visit "^1.1.1"
 
-remark-lint-table-pipes@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/remark-lint-table-pipes/-/remark-lint-table-pipes-1.0.3.tgz#e34f91de4371f98c5e16701bd2302928468cbd8a"
-  integrity sha512-K9NnGZp6i0m/CaOH7ZT4Ymt2seyiRPcBIlNMMGXBm6gpy34KJDDxYqsNUrh+j7dR+Zg4rYAQLnr3BiSHvj+rbQ==
+remark-lint-table-pipes@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/remark-lint-table-pipes/-/remark-lint-table-pipes-1.0.4.tgz#b8cd860a3098385bbdbd4b1f9b34ac6cfed16035"
+  integrity sha512-0fdnoiiSLIPd/76gNvQY4pg27d8HkMmmv5gCGfD+Z/Si9DdpbJdq93U0kX+Botb3+/4VEDIlcU7Cp5HXppMTWA==
   dependencies:
     unified-lint-rule "^1.0.0"
     unist-util-generated "^1.1.0"
