@@ -636,10 +636,10 @@ remark-lint-definition-case@^1.0.4:
     unist-util-position "^3.0.0"
     unist-util-visit "^1.4.0"
 
-remark-lint-definition-spacing@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/remark-lint-definition-spacing/-/remark-lint-definition-spacing-1.0.4.tgz#c322ff110c168449d8217773a23352c4174ffeba"
-  integrity sha512-UderghITmru72OXB5ErCFhVsY7up2wK/m1bUD3E2dm/TFn73/7WpykENt5UirCDT/aeyoHYl8QXUVL20rAc3XQ==
+remark-lint-definition-spacing@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/remark-lint-definition-spacing/-/remark-lint-definition-spacing-1.0.5.tgz#d334b418fa66954c13450038056fd383963a6436"
+  integrity sha512-ss8OQmK4c/1amEAJpDjkFiByLyXpsYFNzmk6rEZQkxZZd+DVHI0oF+CzSeMVHu48rF2qHOkKhVghqrCM0vleAA==
   dependencies:
     unified-lint-rule "^1.0.0"
     unist-util-generated "^1.1.0"
