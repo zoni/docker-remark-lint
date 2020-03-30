@@ -983,10 +983,10 @@ remark-lint-no-heading-punctuation@^1.0.3:
     unist-util-generated "^1.1.0"
     unist-util-visit "^1.1.1"
 
-remark-lint-no-html@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-html/-/remark-lint-no-html-1.0.3.tgz#dd6a72062a5e28bda11e2a3b58478319939584f4"
-  integrity sha512-kVm6jeobNomh8RPjOdPJB6jYCeX8zx6TgGtHstL8bx10WhVbJ8Y1Z4mgiSXEeV8gHL4c9x9QAK/RJpK0Etzftg==
+remark-lint-no-html@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-html/-/remark-lint-no-html-1.0.4.tgz#675102ec4648ad43f3d23be2e5045b49bf094c82"
+  integrity sha512-0aGXOq14UA1/NVgAkr5P4j5r9Y1iaCFybEmffSI3a7mNCtV8njVpF9TRi4PFlFl41LlpRZvaQkwF24xF2bHmgw==
   dependencies:
     unified-lint-rule "^1.0.0"
     unist-util-generated "^1.1.0"
