@@ -1043,10 +1043,10 @@ remark-lint-no-paragraph-content-indent@^1.0.6:
     unist-util-position "^3.0.0"
     unist-util-visit "^1.4.0"
 
-remark-lint-no-reference-like-url@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-reference-like-url/-/remark-lint-no-reference-like-url-1.0.4.tgz#d7997d818ac19a8a38324dfeb72a52875ecdd1ee"
-  integrity sha512-Ial1gt1bNim6iL/sAyR0Ae/qkptymRAkb24mO8on8Z0JECyHWXUFSvCZW/oFjB26t86gSh8+sWAWm+qsJX4tiA==
+remark-lint-no-reference-like-url@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-reference-like-url/-/remark-lint-no-reference-like-url-1.0.5.tgz#40977569823a1a8662ea48dbb190de2a78a53333"
+  integrity sha512-cobohwpjEDoAUZyEaSqGwN+tYZ8EGjZYB/gcGW23bHipPFeozwWW0ptvbqHofjxWEsJxyn9UTHP+jG4TiZzgaQ==
   dependencies:
     unified-lint-rule "^1.0.0"
     unist-util-generated "^1.1.0"
