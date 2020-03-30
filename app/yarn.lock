@@ -888,10 +888,10 @@ remark-lint-no-duplicate-headings@^1.0.4:
     unist-util-stringify-position "^2.0.0"
     unist-util-visit "^1.1.1"
 
-remark-lint-no-emphasis-as-heading@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-emphasis-as-heading/-/remark-lint-no-emphasis-as-heading-1.0.3.tgz#9d837d4c5635a784ef0e983cfb402da15672050d"
-  integrity sha512-HEmyeyKciUz95+CgpAH98RPR73jq5u5CZb2FOMSqgNl9B6FZXqVpq9F3txPqUw3nAqFYOAEnfiaoRgcqtioh0Q==
+remark-lint-no-emphasis-as-heading@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-emphasis-as-heading/-/remark-lint-no-emphasis-as-heading-1.0.4.tgz#144aef1df77bfcdc7112bd0616a571a484e82538"
+  integrity sha512-gnsInLxTkc59eVD3/qelFagD/NcrMPKXT1sy7i4e8D2jqQyrIHHl0p3TfiyNNt8qIjKMKhlIii4k4kVk/3Mczg==
   dependencies:
     unified-lint-rule "^1.0.0"
     unist-util-generated "^1.1.0"
