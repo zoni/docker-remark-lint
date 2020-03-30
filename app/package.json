@@ -20,7 +20,7 @@
     "remark-lint-first-heading-level": "^1.1.4",
     "remark-lint-hard-break-spaces": "^1.0.4",
     "remark-lint-heading-increment": "^1.0.3",
-    "remark-lint-heading-style": "^1.0.3",
+    "remark-lint-heading-style": "^1.0.4",
     "remark-lint-linebreak-style": "^1.0.3",
     "remark-lint-link-title-style": "^1.0.4",
     "remark-lint-list-item-bullet-indent": "^1.0.3",
