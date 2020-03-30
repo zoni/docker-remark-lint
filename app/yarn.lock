@@ -1034,10 +1034,10 @@ remark-lint-no-multiple-toplevel-headings@^1.0.4:
     unist-util-stringify-position "^2.0.0"
     unist-util-visit "^1.1.1"
 
-remark-lint-no-paragraph-content-indent@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-paragraph-content-indent/-/remark-lint-no-paragraph-content-indent-1.0.6.tgz#685a4231e2eedfb37c4bacdcd8849a5a8420ea01"
-  integrity sha512-PqI4QpGgj9EcfNQFNhwyyp2jgm+aK8NS3A0XbS1F1YUvgDwD2kuyMRenEXCCipM7+xlyOyzmic37xfZA2nBikA==
+remark-lint-no-paragraph-content-indent@^1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-paragraph-content-indent/-/remark-lint-no-paragraph-content-indent-1.0.7.tgz#510fc35e294a55cf006777d376beba62e73eaf97"
+  integrity sha512-bR0J6bswLyg0T/aNDwd9n2gffLxpdZzdk4hKGUpxZWg0dDXdmfo/au1SPQ2sNWDZ1xUby9i9oaTgJMEBiL1Xog==
   dependencies:
     unified-lint-rule "^1.0.0"
     unist-util-position "^3.0.0"
