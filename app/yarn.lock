@@ -1013,10 +1013,10 @@ remark-lint-no-literal-urls@^1.0.3:
     unist-util-position "^3.0.0"
     unist-util-visit "^1.1.1"
 
-remark-lint-no-missing-blank-lines@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/remark-lint-no-missing-blank-lines/-/remark-lint-no-missing-blank-lines-1.0.3.tgz#534c5fa81accc482ef215b4f5baa8154e078736c"
-  integrity sha512-zUmvDO9xYG5ZZerhdgir7wU+xQ0+2gg1qZjPG+O9Yb5yfQl+D7ACO3iGDfiTTPssZE1nPplCJgWH1MPJmf8HLg==
+remark-lint-no-missing-blank-lines@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-missing-blank-lines/-/remark-lint-no-missing-blank-lines-1.0.4.tgz#5e19ead199f79a581c2680af6222271be4400120"
+  integrity sha512-IIpr9oNSrSR8YP+lcxsEfCIUIcstRZ+7lTDqqXg4giP4X8x7/ovxc5s/0vLG/fQkQ8/PFmEzQMLTmellZ0Ni7w==
   dependencies:
     unified-lint-rule "^1.0.0"
     unist-util-generated "^1.1.0"
