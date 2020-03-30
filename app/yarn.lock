@@ -738,10 +738,10 @@ remark-lint-heading-style@^1.0.3:
     unist-util-generated "^1.1.0"
     unist-util-visit "^1.1.1"
 
-remark-lint-linebreak-style@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/remark-lint-linebreak-style/-/remark-lint-linebreak-style-1.0.3.tgz#793c23a1875622d5c1e88221cc83ed8c38c6d787"
-  integrity sha512-r4JTQ8M5Jnu3qJk6OFBPaYThGtc+wkIB9eHoJFkM77kirMnobr9o9BNl2OkX4QY1xoqAJYaBEXWNTUIt0MA8pQ==
+remark-lint-linebreak-style@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/remark-lint-linebreak-style/-/remark-lint-linebreak-style-1.0.4.tgz#23554e5290c94f63e2c9510d5bf0bed635bd02eb"
+  integrity sha512-pUVkqRV8rpHN365DlcqsTOIjR7zJq/q97j2TzBpOrgyqA/8Q8U1gs9egxiDIedNO1vw0HJtlmYPtdQ7Afk/9Nw==
   dependencies:
     unified-lint-rule "^1.0.0"
     vfile-location "^2.0.1"
