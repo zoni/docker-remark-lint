@@ -57,7 +57,7 @@
     "remark-lint-no-shortcut-reference-image": "^1.0.3",
     "remark-lint-no-shortcut-reference-link": "^1.0.4",
     "remark-lint-no-table-indentation": "^1.0.4",
-    "remark-lint-no-tabs": "^1.0.3",
+    "remark-lint-no-tabs": "^2.0.0",
     "remark-lint-no-undefined-references": "^1.1.1",
     "remark-lint-no-unneeded-full-reference-image": "^1.0.0",
     "remark-lint-no-unneeded-full-reference-link": "^1.0.0",
