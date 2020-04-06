@@ -69,7 +69,7 @@
     "remark-lint-table-cell-padding": "^1.0.4",
     "remark-lint-table-pipe-alignment": "^1.0.3",
     "remark-lint-table-pipes": "^1.0.3",
-    "remark-lint-unordered-list-marker-style": "^1.0.3",
+    "remark-lint-unordered-list-marker-style": "^2.0.0",
     "remark-yaml-config": "^4.1.0"
   }
 }
