@@ -11,7 +11,7 @@
     "remark-lint-code-block-style": "^1.0.3",
     "remark-lint-definition-case": "^1.0.4",
     "remark-lint-definition-spacing": "^1.0.4",
-    "remark-lint-emphasis-marker": "^1.0.3",
+    "remark-lint-emphasis-marker": "^2.0.0",
     "remark-lint-fenced-code-flag": "^1.0.3",
     "remark-lint-fenced-code-marker": "^1.0.3",
     "remark-lint-file-extension": "^1.0.3",
