@@ -738,13 +738,13 @@ remark-lint-heading-style@^1.0.3:
     unist-util-generated "^1.1.0"
     unist-util-visit "^1.1.1"
 
-remark-lint-linebreak-style@^1.0.3:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/remark-lint-linebreak-style/-/remark-lint-linebreak-style-1.0.4.tgz#23554e5290c94f63e2c9510d5bf0bed635bd02eb"
-  integrity sha512-pUVkqRV8rpHN365DlcqsTOIjR7zJq/q97j2TzBpOrgyqA/8Q8U1gs9egxiDIedNO1vw0HJtlmYPtdQ7Afk/9Nw==
+remark-lint-linebreak-style@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/remark-lint-linebreak-style/-/remark-lint-linebreak-style-2.0.0.tgz#86234e8a40171f80e6daf9edcc30a7b23b72b79d"
+  integrity sha512-NyKMaI+w0GBeCLzt0hpZ33hadAuZ0ny9mCM673ZRqVV3TbN99OYbQpJBtO7ZLr8wIVxapXFzwiwes2fl2ch5CA==
   dependencies:
     unified-lint-rule "^1.0.0"
-    vfile-location "^2.0.1"
+    vfile-location "^3.0.0"
 
 remark-lint-link-title-style@^1.0.4:
   version "1.0.5"
@@ -1563,6 +1563,11 @@ vfile-location@^2.0.0, vfile-location@^2.0.1:
   version "2.0.6"
   resolved "https://registry.yarnpkg.com/vfile-location/-/vfile-location-2.0.6.tgz#8a274f39411b8719ea5728802e10d9e0dff1519e"
   integrity sha512-sSFdyCP3G6Ka0CEmN83A2YCMKIieHx0EDaj5IDP4g1pa5ZJ4FJDvpO0WODLxo4LUX4oe52gmSCK7Jw4SBghqxA==
+
+vfile-location@^3.0.0:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/vfile-location/-/vfile-location-3.0.1.tgz#d78677c3546de0f7cd977544c367266764d31bb3"
+  integrity sha512-yYBO06eeN/Ki6Kh1QAkgzYpWT1d3Qln+ZCtSbJqFExPl1S3y2qqotJQXoh6qEvl/jDlgpUJolBn3PItVnnZRqQ==
 
 vfile-message@^2.0.0:
   version "2.0.4"
