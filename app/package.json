@@ -2,7 +2,7 @@
   "name": "remark-lint",
   "license": "MIT",
   "dependencies": {
-    "remark-cli": "^8.0.0",
+    "remark-cli": "^8.0.1",
     "remark-frontmatter": "^2.0.0",
     "remark-lint": "^7.0.0",
     "remark-lint-blockquote-indentation": "^2.0.0",
